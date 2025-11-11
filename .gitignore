@@ -6,3 +6,4 @@
 "dataset/*.csv" 
 "model/" 
 .DS_Store
+model/*.joblib
